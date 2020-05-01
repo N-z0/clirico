@@ -1,70 +1,49 @@
 ![Logo icon](contents/logo/logo.svg "Software-name logo")
-# Software-name
-**fancy slogan / ex: jQuery — the new JavaScript Wave**
+# Clirico
+**A clear icon set**
 
 
 ## 🚩 Intro
-A short summary presentation of what this software is.  
-*(if the name is an acronym or abbreviation, give full meaning)*  
+Clirico is a set of monochromatic icons for use in dark graphic computer environments.  
 
 
 ## 📋 Glossary
- - Computer  
-	Device working on binaries information.
- - Fire  
-	Ignited gas.
- - Robots  
-	Autonomous machines,made to be slaves of humans.
+ - icons  
+	In this case an icon is a pictogram or ideogram displayed on computer screen.
 
 
 ## ℹ️ Description
- - the goal of this project
- - Who can be interested by this  project
- - what benefit from using it
- - how it work
+ - the goal is to have quickly comprehensible symbols.
+ - easy to see even if its small.
+ - and of course pretty.
 
 
 ## 📝 Note
- - The software block and freeze when all keys are pressed at same time.  
-	Do Not press all the keyboard keys at same time.
- - If the computer shutdown while using this Software  
-	All the unsaved data will be lost.
- - Do not use a hammer for trying to fix any bugs  
-	It leads to software destruction and may damage your device.
+ - For now this set has been only tested on GTK platform.
+ - On Linux at first a look for icons is done in the selected theme directory of **/usr/share/icons/** and yhen in **/usr/share/icons/hicolor** .
 
 
 ## 👉 References:
- - [maxtof photo bank](http://www.maxtof.com)  
-	Website full of interesting photos and text files for related textures images.
- - Cycles and Quasi-Cycles Glosses   
-	Evaluation of  semi-structured system for fully automatics. J. Muresan. Informatics Association 2001, pp. 324–328.
- - [WW2 database](http://www.ww2-ontopia.net)  
-	Pictures and video of the real vehicles.
+ - [Icon Naming Specification](https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html)  
+	How to name icons that are available for use by applications, when creating a theme.
+ - [Icon Theme Specification](https://specifications.freedesktop.org/icon-theme-spec/icon-theme-spec-latest.html)  
+	About icons theme sharing a common look and feel.
+ - [Creating Icon Themes](https://www.linux.org/threads/creating-icon-themes.11826/)  
+	Helpful to learn how to change icons, edit them, get more, etc..
+ - [Installing icons](https://developer.gnome.org/integration-guide/stable/icons.html.en)  
+	Where to put icons file for the GNOME desktop.
+	
 
 ## 👀 See also:
- - [Supermax editor](http://www.fenix-sw.com/sm-ed.html)  
-	This software is efficient for editing the files of this project..
- - [countries-db](http://www.countries.com/db)  
-	Unicode countries database related to the countries flags.
- - [pc-lock](http://www.secu.com)  
-	An optional device for improving the security with this software.
+ - [DGLS](https://github.com/N-z0/DGLS)  
+	An hard attempt to make correct GTK theme.
+ - [pointo](https://github.com/N-z0/pointo)  
+	A nice pointer for mouse cursor.
+ - [WambaX](https://github.com/N-z0/WambaX)  
+	A legacy style of fast and useful interface.
 
 
 ## 📜 History
  - Origin:
-	- The projet was initiate by [Mark Borello](mailto:mbo@msn.com) for [Frikaia.com](https://www.frikaia.com) but the main creators and author is [Nizi Maza](https://github.com/nizi) .
-
- - Development:
-	- In 2010  [Damien ford](mailto:damfo@gmail.com) continued the project with the help of [Tim Devens](https://github.com/timdev)  for the management.
-	- The project moved on [Gitswitch](https://gitswitch.com) last summer
-	- And now  [Microhard](https://www.microhard.com) is the official publisher
-
-
-## ❤️ Special thanks
- - [Wikipedia](https://www.wikipedia.org)  
-	Gave us so much knowledge...
- - The R.S.A.  
-	For providing infrastructure material and active solidarity.
- - Janice Bastos  
-	So much grateful for all the love given.
+	- created by [N-z0](mailto:syslog@laposte.net) in autumn 2019 for the [DGLS](https://github.com/N-z0/DGLS) GTK theme.
 
