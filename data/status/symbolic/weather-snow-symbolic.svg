@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    width="16"
+    height="16"
+    id="svg2"
+    version="1.0"
+    sodipodi:docname="weather-snow-symbolic.svg"
+    inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   <sodipodi:namedview
+       pagecolor="#000000"
+       bordercolor="#666666"
+       borderopacity="1"
+       objecttolerance="10"
+       gridtolerance="10"
+       guidetolerance="10"
+       inkscape:pageopacity="0"
+       inkscape:pageshadow="2"
+       inkscape:window-width="1366"
+       inkscape:window-height="707"
+       id="namedview24"
+       showgrid="true"
+       inkscape:snap-bbox="true"
+       inkscape:bbox-paths="true"
+       inkscape:bbox-nodes="true"
+       inkscape:snap-bbox-midpoints="true"
+       inkscape:snap-bbox-edge-midpoints="true"
+       inkscape:object-paths="true"
+       inkscape:snap-intersection-paths="true"
+       inkscape:zoom="29.5"
+       inkscape:cx="5.4002105"
+       inkscape:cy="7.4401181"
+       inkscape:window-x="0"
+       inkscape:window-y="25"
+       inkscape:window-maximized="1"
+       inkscape:current-layer="svg2">
+      <inkscape:grid
+          type="xygrid"
+          id="grid880"
+          empspacing="4"
+          empcolor="#c63fff"
+          empopacity="0.25098039" />
+   </sodipodi:namedview>
+   <defs
+       id="defs4" />
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       d="M 7.5 0 C 5.164201 0 3.253781 1.785153 3.03125 4.0625 C 1.877066 4.283877 1 5.281256 1 6.5 C 1 7.880712 2.119288 9 3.5 9 L 4.0078125 9 A 5 5 0 0 1 8 7 A 5 5 0 0 1 11.960938 8.9550781 C 13.673731 8.7273127 15 7.2750727 15 5.5 C 15 3.567003 13.432997 2 11.5 2 C 11.41568 2 11.332827 2.02539 11.25 2.03125 C 10.446562 0.802689 9.077518 0 7.5 0 z "
+       id="path3901" />
+   <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 7.75 8 L 7.75 9.3945312 L 7.1777344 8.8222656 L 6.8222656 9.1777344 L 7.75 10.105469 L 7.75 11.566406 L 6.4824219 10.835938 L 6.1425781 9.5683594 L 5.6601562 9.6992188 L 5.8710938 10.482422 L 4.6601562 9.7832031 L 4.4101562 10.216797 L 5.6191406 10.914062 L 4.8378906 11.125 L 4.9667969 11.607422 L 6.2324219 11.269531 L 7.4980469 12 L 6.2324219 12.730469 L 4.9667969 12.392578 L 4.8378906 12.875 L 5.6191406 13.085938 L 4.4101562 13.783203 L 4.6601562 14.216797 L 5.8710938 13.517578 L 5.6601562 14.300781 L 6.1425781 14.431641 L 6.4824219 13.164062 L 7.75 12.433594 L 7.75 13.894531 L 6.8222656 14.822266 L 7.1777344 15.177734 L 7.75 14.605469 L 7.75 16 L 8.25 16 L 8.25 14.605469 L 8.8222656 15.177734 L 9.1777344 14.822266 L 8.25 13.894531 L 8.25 12.433594 L 9.5175781 13.164062 L 9.8574219 14.431641 L 10.339844 14.300781 L 10.128906 13.517578 L 11.339844 14.216797 L 11.589844 13.783203 L 10.380859 13.085938 L 11.162109 12.875 L 11.033203 12.392578 L 9.7675781 12.730469 L 8.5 12 L 9.7675781 11.269531 L 11.033203 11.607422 L 11.162109 11.125 L 10.380859 10.914062 L 11.589844 10.216797 L 11.339844 9.7832031 L 10.128906 10.482422 L 10.339844 9.6992188 L 9.8574219 9.5683594 L 9.5175781 10.833984 L 8.25 11.566406 L 8.25 10.105469 L 9.1777344 9.1777344 L 8.8222656 8.8222656 L 8.25 9.3945312 L 8.25 8 L 7.75 8 z "
+       id="path1098" />
+</svg>
