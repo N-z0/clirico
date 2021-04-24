@@ -20,7 +20,7 @@ Clirico is a set of monochromatic icons for use in dark graphic computer environ
 
 ## 📝 Note
  - For now this set has been only tested on GTK platform.
- - On Linux at first a look for icons is done in the **~/.icons/** directory, and then in **/usr/share/icons/**  **/usr/share/icons/hicolor/** .
+ - On Linux at first a look for icons is done in the **~/.icons** directory, and then in **/usr/share/icons/** , **/usr/share/icons/hicolor** .
 
 
 ## 👉 References:
